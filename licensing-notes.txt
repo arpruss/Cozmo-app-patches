@@ -1,0 +1,5 @@
+The patches unavoidably contain a little bit of ANKI/DigitalDreamLabs code in addition to 
+a lot of code from the Scratch Foundation. I am hoping that because the
+ANKI code is only used for patch context, it's fair use to include it, but
+if ANKI/DigitalDreamLabs asks me to remove it, I will try to include some sort of 
+patches without context.
