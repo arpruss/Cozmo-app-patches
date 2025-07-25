@@ -1,10 +1,10 @@
-Patches for Cozmo Android app 3.6.6
+Patches for Cozmo Android app 3.6.6 or 3.6.9
 
-1. Copy /sdcard/Android/data/com.digitaldreamlabs.cozmo2 from your Android devices to your computer.
+1. Copy /sdcard/Android/data/com.digitaldreamlabs.cozmo2 [3.6.6] or /sdcard/Android/data/com.anki.cozmo2 [3.6.9] from your Android devices to your computer.
 
 2. Make a backup copy.
 
-3. Put scratch.diff in the com.digitaldreamlabs.cozmo2 directory.
+3. Put scratch.diff in the com.digitaldreamlabs.cozmo2 or com.anki.cozmo2 directory.
 
 4. Run: patch -p1 < scratch.diff
 
